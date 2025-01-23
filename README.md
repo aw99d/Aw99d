@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed  and I'm a Front End Developer</h2>
+<h2 align="left">Hi 👋! My name is Ahmed <br> and I'm a Front End Developer</h2>
 
 ###
 
@@ -30,8 +30,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aw99d/Aw99d/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpzMWVkOWVtOGs3ZDNiZTE4M2xtdHc0ZXVseHVyem9sNHg5aHh5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
 
 ###
